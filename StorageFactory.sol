@@ -1,5 +1,6 @@
 //SPDX-License-Identifier:MIT
 // W learn in this how to interact with another contract and their functionality
+// Lesson 2: Storage Factory Inheritance, Factory Pattern, and Interacting with External Contracts
 pragma solidity ^0.8.10;
 
 import "./SimpleStorage.sol"; 
